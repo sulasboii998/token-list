@@ -50180,6 +50180,23 @@
         "utility-token",
         "galaxi-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Z98tC8DK3Mp9UTCHVkKdRo5wS5AHL95L15NYRKSVFiV",
+      "symbol": "ZERX",
+      "name": "Zerxes",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/sulasboii998/Zerxes/main/zlogo.png",
+      "tags": [
+        "community-token",
+        "zerxes",
+        "social-token"
+        
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ZerxesCrypto"
+      }
     }
   ],
   "version": {
